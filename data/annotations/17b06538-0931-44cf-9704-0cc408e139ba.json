@@ -368,6 +368,22 @@
         }
       ],
       "uuid": "9d20a53f-9825-48ac-a452-c671e9cbd6c6"
+    },
+    {
+      "start_time": 56,
+      "end_time": 59,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Their flowers the tenderness of patient minds,"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9efe6c1b-24ff-4abd-b34f-cb904d3dc90a"
     }
   ],
   "set": "Default",
