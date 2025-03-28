@@ -305,6 +305,27 @@
         }
       ],
       "uuid": "68e83492-3073-4fd4-ba7a-d02cb3027a52"
+    },
+    {
+      "start_time": 45,
+      "end_time": 47,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Not in the hands of boys, but in their eyes"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "00424cce-fb0f-4af9-89f7-02cd15b58f71"
     }
   ],
   "set": "Default",
