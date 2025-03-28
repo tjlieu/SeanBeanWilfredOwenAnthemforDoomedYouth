@@ -326,6 +326,27 @@
         }
       ],
       "uuid": "00424cce-fb0f-4af9-89f7-02cd15b58f71"
+    },
+    {
+      "start_time": 47,
+      "end_time": 50,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Shall shine the holy glimmers of goodbyes."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "ce8389bc-0007-4c25-80e5-970b7710e0cb"
     }
   ],
   "set": "Default",
