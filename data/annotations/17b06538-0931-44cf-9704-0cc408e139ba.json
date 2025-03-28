@@ -1,5 +1,27 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 6,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Gunfire & artillery becomes oppressive, before fading out slightly."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Ambient Noise",
+          "category": "Extra-Poetic Sounds"
+        }
+      ],
+      "uuid": "fcc20509-c0d8-49e7-b897-d7c35333b3ab"
+    }
+  ],
   "set": "Default",
   "event_id": "acf89f81-125d-40c0-aee6-f29fb6d45a59",
   "source_id": "32ea7490-fc00-4255-a635-3ff3f5165afd"
