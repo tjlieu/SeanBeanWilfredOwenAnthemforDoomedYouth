@@ -62,6 +62,27 @@
         }
       ],
       "uuid": "9c587447-2163-4c91-9be2-9b1799e07923"
+    },
+    {
+      "start_time": 12,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Only the monstrous anger of the guns."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "a4e8e8af-b3e7-40d6-b755-dd04eb26f603"
     }
   ],
   "set": "Default",
