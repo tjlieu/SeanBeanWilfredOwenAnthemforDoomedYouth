@@ -242,6 +242,27 @@
         }
       ],
       "uuid": "8c7e81b1-0e5f-4832-bba4-24ca82dadeea"
+    },
+    {
+      "start_time": 34,
+      "end_time": 37,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And bugles calling for them from sad shires."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "7bb96b09-2e4c-451c-a1b2-c585a0388c04"
     }
   ],
   "set": "Default",
