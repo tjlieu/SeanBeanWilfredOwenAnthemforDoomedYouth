@@ -382,7 +382,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
       "uuid": "9efe6c1b-24ff-4abd-b34f-cb904d3dc90a"
     }
   ],
