@@ -150,6 +150,27 @@
         }
       ],
       "uuid": "f01f414e-0bfc-4d55-b4c5-75512dd211d3"
+    },
+    {
+      "start_time": 21,
+      "end_time": 24,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "No mockeries now for them; no prayers nor bells;"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "16947134-c4cc-4ed3-b125-7249087bf5b5"
     }
   ],
   "set": "Default",
