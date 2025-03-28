@@ -213,6 +213,31 @@
         }
       ],
       "uuid": "9c46a3d0-0fe9-4691-8a56-5d9300798a62"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The shrill, demented choirs of wailing shells;"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
+        }
+      ],
+      "uuid": "8c7e81b1-0e5f-4832-bba4-24ca82dadeea"
     }
   ],
   "set": "Default",
