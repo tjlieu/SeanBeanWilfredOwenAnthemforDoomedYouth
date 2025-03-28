@@ -389,6 +389,27 @@
         }
       ],
       "uuid": "9efe6c1b-24ff-4abd-b34f-cb904d3dc90a"
+    },
+    {
+      "start_time": 61,
+      "end_time": 66,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "And each slow dusk a drawing-down of blinds."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "e596ab59-8305-462c-93a7-7d9d8515e69d"
     }
   ],
   "set": "Default",
