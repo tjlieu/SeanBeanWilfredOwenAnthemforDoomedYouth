@@ -20,6 +20,27 @@
         }
       ],
       "uuid": "fcc20509-c0d8-49e7-b897-d7c35333b3ab"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What passing-bells for these who die as cattle?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "af7565a5-be15-441e-b8ac-3e97a52cd56d"
     }
   ],
   "set": "Default",
