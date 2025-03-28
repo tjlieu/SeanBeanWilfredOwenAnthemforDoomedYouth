@@ -41,6 +41,27 @@
         }
       ],
       "uuid": "af7565a5-be15-441e-b8ac-3e97a52cd56d"
+    },
+    {
+      "start_time": 10,
+      "end_time": 12,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Caesura",
+          "category": "Form"
+        }
+      ],
+      "uuid": "9c587447-2163-4c91-9be2-9b1799e07923"
     }
   ],
   "set": "Default",
