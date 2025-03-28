@@ -22,8 +22,8 @@
       "uuid": "fcc20509-c0d8-49e7-b897-d7c35333b3ab"
     },
     {
-      "start_time": 0,
-      "end_time": 0,
+      "start_time": 7,
+      "end_time": 10,
       "annotation": [
         {
           "type": "paragraph",
