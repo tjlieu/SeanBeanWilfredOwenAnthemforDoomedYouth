@@ -347,6 +347,27 @@
         }
       ],
       "uuid": "ce8389bc-0007-4c25-80e5-970b7710e0cb"
+    },
+    {
+      "start_time": 52,
+      "end_time": 54,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "The pallor of girls’ brows shall be their pall;"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "9d20a53f-9825-48ac-a452-c671e9cbd6c6"
     }
   ],
   "set": "Default",
