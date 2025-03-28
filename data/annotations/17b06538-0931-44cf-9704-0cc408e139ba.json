@@ -129,6 +129,27 @@
         }
       ],
       "uuid": "6d8ac4f3-84b1-4261-b71b-333bbc24a7ae"
+    },
+    {
+      "start_time": 20,
+      "end_time": 20,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Orison - A prayer"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Definition",
+          "category": "Background"
+        }
+      ],
+      "uuid": "f01f414e-0bfc-4d55-b4c5-75512dd211d3"
     }
   ],
   "set": "Default",
