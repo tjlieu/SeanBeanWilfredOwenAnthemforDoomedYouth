@@ -284,6 +284,27 @@
         }
       ],
       "uuid": "2015703b-61f3-4990-a814-f1418fd944bf"
+    },
+    {
+      "start_time": 40,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What candles may be held to speed them all?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "68e83492-3073-4fd4-ba7a-d02cb3027a52"
     }
   ],
   "set": "Default",
