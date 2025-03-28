@@ -83,6 +83,27 @@
         }
       ],
       "uuid": "a4e8e8af-b3e7-40d6-b755-dd04eb26f603"
+    },
+    {
+      "start_time": 16,
+      "end_time": 18,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Only the stuttering rifles' rapid rattle"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Transcription",
+          "category": "Background"
+        }
+      ],
+      "uuid": "3fc78226-fca7-4c68-9c22-b83f34332665"
     }
   ],
   "set": "Default",
