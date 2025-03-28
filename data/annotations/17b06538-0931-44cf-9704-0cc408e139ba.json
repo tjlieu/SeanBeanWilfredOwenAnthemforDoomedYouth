@@ -171,6 +171,22 @@
         }
       ],
       "uuid": "16947134-c4cc-4ed3-b125-7249087bf5b5"
+    },
+    {
+      "start_time": 25,
+      "end_time": 27,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nor any voice of mourning save the choirs,—"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c0ea6b9a-137f-4f45-b1e4-c3048ccb43d2"
     }
   ],
   "set": "Default",
