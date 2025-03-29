@@ -492,6 +492,27 @@
         }
       ],
       "uuid": "c59806b4-efc7-4bcb-8d04-82eadad397d0"
+    },
+    {
+      "start_time": 40,
+      "end_time": 43,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beginning of sestet."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "f92b6b5e-06de-4bc0-a631-eb3911371ef7"
     }
   ],
   "set": "Default",
