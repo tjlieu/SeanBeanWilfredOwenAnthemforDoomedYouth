@@ -360,6 +360,10 @@
         {
           "tag": "Transcription",
           "category": "Background"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
         }
       ],
       "uuid": "ce8389bc-0007-4c25-80e5-970b7710e0cb"
