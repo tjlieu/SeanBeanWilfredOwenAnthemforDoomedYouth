@@ -467,6 +467,31 @@
         }
       ],
       "uuid": "55a68be8-0eee-450d-addd-1ddcb1acabb6"
+    },
+    {
+      "start_time": 7,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Beginning of Iambic pentameter as per sonnet verse structure."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Meter",
+          "category": "Form"
+        },
+        {
+          "tag": "Verse Structure",
+          "category": "Form"
+        }
+      ],
+      "uuid": "c59806b4-efc7-4bcb-8d04-82eadad397d0"
     }
   ],
   "set": "Default",
