@@ -105,6 +105,10 @@
         {
           "tag": "Transcription",
           "category": "Background"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
         }
       ],
       "uuid": "3fc78226-fca7-4c68-9c22-b83f34332665"
