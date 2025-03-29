@@ -2,13 +2,13 @@
   "annotations": [
     {
       "start_time": 0,
-      "end_time": 66,
+      "end_time": 6,
       "annotation": [
         {
           "type": "paragraph",
           "children": [
             {
-              "text": "Gunfire & artillery becomes oppressive, before fading out slightly. However, it remains omnipresent until the final line."
+              "text": "Gunfire & artillery becomes oppressive, before fading out slightly."
             }
           ]
         }
