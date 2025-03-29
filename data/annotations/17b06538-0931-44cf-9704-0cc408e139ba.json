@@ -84,6 +84,10 @@
         {
           "tag": "Tempo",
           "category": "Performance"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
         }
       ],
       "uuid": "a4e8e8af-b3e7-40d6-b755-dd04eb26f603"
