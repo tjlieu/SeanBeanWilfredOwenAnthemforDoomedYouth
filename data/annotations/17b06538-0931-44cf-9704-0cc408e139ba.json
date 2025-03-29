@@ -180,6 +180,10 @@
         {
           "tag": "Transcription",
           "category": "Background"
+        },
+        {
+          "tag": "Amplitude",
+          "category": "Performance"
         }
       ],
       "uuid": "16947134-c4cc-4ed3-b125-7249087bf5b5"
