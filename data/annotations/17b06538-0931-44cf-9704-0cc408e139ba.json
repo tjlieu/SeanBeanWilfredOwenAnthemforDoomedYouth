@@ -247,6 +247,10 @@
         {
           "tag": "Tempo",
           "category": "Performance"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
         }
       ],
       "uuid": "8c7e81b1-0e5f-4832-bba4-24ca82dadeea"
