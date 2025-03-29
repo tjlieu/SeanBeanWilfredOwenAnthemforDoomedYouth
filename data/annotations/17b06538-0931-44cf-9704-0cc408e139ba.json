@@ -431,6 +431,10 @@
         {
           "tag": "Transcription",
           "category": "Background"
+        },
+        {
+          "tag": "Rhyme",
+          "category": "Form"
         }
       ],
       "uuid": "e596ab59-8305-462c-93a7-7d9d8515e69d"
